@@ -514,8 +514,8 @@ li:hover{
 
 @media (max-width:1300px) {
   .train{
-    font-size: 2rem;
-    text-align: center;
+    font-size: 4px;
+    
   }
   .find{
     text-align: center;
