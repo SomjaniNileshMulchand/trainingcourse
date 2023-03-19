@@ -512,21 +512,7 @@ li:hover{
 
 }
 
-@media (max-width:1300px) {
-  .train{
-    font-size: 4px;
-    
-  }
-  .find{
-    text-align: center;
-  }
-  .for{
-    text-align: center;
-  }
-  .start{
-    text-align: center;
-  }
-}
+ 
 
 @media (max-width:1300px) {
   .card{
