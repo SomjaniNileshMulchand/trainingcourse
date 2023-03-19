@@ -55,7 +55,7 @@ nav form .search-data{
   width: 100%;
   height: 100%;
   padding: 0 10px;
-  color: #fff;
+  color: black;
   font-size: 17px;
   border: none;
   font-weight: 500;
@@ -243,13 +243,13 @@ nav{
   border-bottom: 2px solid rgb(245, 235, 235);
 }
 .train{
-  font-size: 6rem;
+  font-size: 5rem;
   margin-top: 6rem;
   margin-left: 6rem;
 }
 
 .find{
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-top: 2rem;
   margin-left: 6rem;
 }
@@ -514,13 +514,14 @@ li:hover{
 
 @media (max-width:1300px) {
   .train{
-    text-align: center;
+    font-size: 4rem;
+    text-align: left;
   }
   .find{
     text-align: center;
   }
   .for{
-    text-align: center;
+    text-align: left;
   }
   .start{
     text-align: center;
