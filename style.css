@@ -514,11 +514,17 @@ li:hover{
 @media (max-width:1300px) {
   .train{
     font-size: 30px;
-    text-align: left;
+    text-align: center;
   }
   .find{
     font-size: 20px;
-    text-align: left;
+    text-align: center;
+  }
+  .for{
+    text-align: center;
+  }
+  .start{
+    text-align: center;
   }
 
 }
