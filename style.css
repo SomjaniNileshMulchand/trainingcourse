@@ -513,8 +513,14 @@ li:hover{
 }
 @media (max-width:1300px) {
   .train{
-    font-size: 20px;
+    font-size: 30px;
+    text-align: left;
   }
+  .find{
+    font-size: 20px;
+    text-align: left;
+  }
+
 }
 
  
@@ -526,10 +532,18 @@ li:hover{
     align-items: center;
   
   }
+  .card{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
   .diff{
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+  .diff{
+    margin-left: 1rem;
+    margin-right: 1rem;
   }
 }
 
