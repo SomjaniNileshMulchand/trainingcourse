@@ -546,6 +546,8 @@ li:hover{
   .inter{
     margin-left: 1rem;
     margin-right: 1rem;
+    width: 270px;
+    height: 520px;
   }
 }
 
