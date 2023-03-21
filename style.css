@@ -535,6 +535,8 @@ li:hover{
   .create{
     margin-left: 2rem;
     margin-right: 2rem;
+    width: 320px;
+    height: 550px;
   }
   .diff{
     display: flex;
