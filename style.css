@@ -270,19 +270,29 @@ nav{
   margin-top: 2rem;
   margin-left: 6rem;
 }
+.topics{
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+
+}
 
 .create{
   margin-top: 6rem;
   background-color: rgb(222, 222, 222);
   width: 580px;
-  height: 350px;
+  height: 390px;
   padding: 20px;
   
 }
-.card{
-  display: flex;
-  justify-content: space-around;
-  text-align: left;
+
+
+.course{
+  margin-top: 6rem;
+  background-color: rgb(222, 222, 222);
+  width: 580px;
+  height: 350px;
+  padding: 20px;
 }
 .other:hover{
   text-decoration: underline;
@@ -329,7 +339,7 @@ hr{
   margin-top: 6rem;
   background-color: rgb(222, 222, 222);
   width: 400px;
-  height: 320px;
+  height: 390px;
   padding: 15px;
 }
 
@@ -514,17 +524,17 @@ li:hover{
 @media (max-width:1300px) {
   .train{
     font-size: 30px;
-    text-align: center;
+    text-align: left;
   }
   .find{
     font-size: 20px;
-    text-align: center;
+    text-align: left;
   }
   .for{
-    text-align: center;
+    text-align: left;
   }
   .start{
-    text-align: center;
+    text-align: left;
   }
 
 }
