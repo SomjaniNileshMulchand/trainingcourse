@@ -511,6 +511,11 @@ li:hover{
   display: flex;
 
 }
+@media (max-width:1300px) {
+  .train{
+    font-size: 1rem;
+  }
+}
 
  
 
