@@ -290,8 +290,29 @@ nav{
 .course{
   margin-top: 6rem;
   background-color: rgb(222, 222, 222);
-  width: 580px;
-  height: 350px;
+  width: 600px;
+  height: 325px;
+  padding: 20px;
+}
+.make{
+  margin-top: 6rem;
+  background-color: rgb(222, 222, 222);
+  width: 600px;
+  height: 325px;
+  padding: 20px;
+}
+.path{
+  margin-top: 6rem;
+  background-color: rgb(222, 222, 222);
+  width: 600px;
+  height: 340px;
+  padding: 20px;
+}
+.boot{
+  margin-top: 6rem;
+  background-color: rgb(222, 222, 222);
+  width: 600px;
+  height: 325px;
   padding: 20px;
 }
 .other:hover{
@@ -521,13 +542,13 @@ li:hover{
   display: flex;
 
 }
-@media (max-width:1300px) {
+@media (max-width:1400px) {
   .train{
-    font-size: 30px;
+    font-size: 40px;
     text-align: left;
   }
   .find{
-    font-size: 20px;
+    font-size: 30px;
     text-align: left;
   }
   .for{
@@ -536,12 +557,20 @@ li:hover{
   .start{
     text-align: left;
   }
+  .link1{
+    margin-top: 2px;
+    margin-left: 4rem;
+    text-decoration: none;
+  }
+  .link1:hover{
+    text-decoration: underline;
+  }
 
 }
 
  
 
-@media (max-width:1300px) {
+@media (max-width:1400px) {
   .topics{
     display: flex;
     flex-direction: column;
@@ -554,6 +583,30 @@ li:hover{
     width: 320px;
     height: 550px;
   }
+  .course{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 320px;
+    height: 400px;
+  }
+  .make{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 320px;
+    height: 380px;
+  }
+  .path{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 320px;
+    height: 500px;
+  }
+  .boot{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 320px;
+    height: 440px;
+  }
   .diff{
     display: flex;
     flex-direction: column;
@@ -563,26 +616,26 @@ li:hover{
     margin-left: 1rem;
     margin-right: 1rem;
     width: 270px;
-    height: 520px;
+    height: 450px;
   }
 }
 
 
-@media  (max-width: 1300px) {
+@media  (max-width: 1400px) {
   img{
     margin: auto;
     
   }
 }
 
-@media  (max-width: 1300px) {
+@media  (max-width: 1400px) {
   .space{
     display: flex;
     flex-direction: column;
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1400px) {
   #footer{
     display: flex;
     flex-direction: column;
@@ -590,7 +643,7 @@ li:hover{
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1400px) {
   .blue{
     display: flex;
     flex-direction: row;
@@ -609,14 +662,14 @@ li:hover{
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1400px) {
   .supp{
     display: flex;
     flex-direction: column;
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1400px) {
   .lastdiv{
     display: flex;
     flex-direction: column;
