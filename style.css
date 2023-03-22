@@ -238,6 +238,10 @@ nav .logo.space{
 .change{
   color: rgb(105, 215, 105);
 }
+select{
+  padding: 10px;
+  background-color: #fff;
+}
 nav{
   border-top: 2px solid rgb(245, 235, 235);
   border-bottom: 2px solid rgb(245, 235, 235);
