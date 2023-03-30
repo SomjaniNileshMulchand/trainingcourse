@@ -547,6 +547,7 @@ li:hover{
 
 }
 @media (max-width:1400px) {
+  
   .train{
     font-size: 40px;
     text-align: left;
@@ -571,6 +572,169 @@ li:hover{
   }
 
 }
+
+@media (max-width:480px) {
+  .topics{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+  }
+  .create{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 390px;
+    height: 545px;
+  }
+  .course{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 390px;
+    height: 395px;
+  }
+  .make{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 390px;
+    height: 375px;
+  }
+  .path{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 390px;
+    height: 495px;
+  }
+  .boot{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 390px;
+    height: 435px;
+  }
+  
+}
+@media (max-width:768px) {
+  .topics{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+  }
+  .create{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 440px;
+    height: 545px;
+  }
+  .course{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 440px;
+    height: 395px;
+  }
+  .make{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 440px;
+    height: 375px;
+  }
+  .path{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 440px;
+    height: 495px;
+  }
+  .boot{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 440px;
+    height: 435px;
+  }
+  
+}
+  
+@media (max-width:992px) {
+  .topics{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+  }
+  .create{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 500px;
+    height: 545px;
+  }
+  .course{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 500px;
+    height: 395px;
+  }
+  .make{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 500px;
+    height: 375px;
+  }
+  .path{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 500px;
+    height: 495px;
+  }
+  .boot{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 500px;
+    height: 435px;
+  }
+  
+}
+  
+
+@media (max-width:1280px) {
+  .topics{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+  }
+  .create{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 600px;
+    height: 545px;
+  }
+  .course{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 600px;
+    height: 395px;
+  }
+  .make{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 600px;
+    height: 375px;
+  }
+  .path{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 600px;
+    height: 495px;
+  }
+  .boot{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 600px;
+    height: 435px;
+  }
+  
+}
+  
+
+
 
  
 
