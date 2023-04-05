@@ -519,14 +519,22 @@ li:hover{
 .play:hover{
   color: blue;
 }
+.vacy::after{
+  content:"";
+  height: 1rem;
+  width: 2px;
+  background-color: black;
+  display: inline-block;
+  margin-left: 20px;
+
+}
 .cloud{
   text-decoration: none;
   color: black;
-  margin: 2rem;
+  margin: 0.5rem;
 }
-.vacy{
-  border-right: 1px solid #000;
-}
+
+
 .cloud:hover{
   color: blue;
 }
